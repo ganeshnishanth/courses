@@ -1,3 +1,7 @@
 git is fast version control system
 kubernetes
+<<<<<<< HEAD
 jenkins
+=======
+maven
+>>>>>>> refs/remotes/origin/main
